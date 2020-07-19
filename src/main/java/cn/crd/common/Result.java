@@ -8,7 +8,6 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 
 /**
  * 自定义响应结构
- *
  */
 public class Result implements Serializable{
 
